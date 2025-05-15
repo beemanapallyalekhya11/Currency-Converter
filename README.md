@@ -38,22 +38,21 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 
 🌐 **Supported Currencies** (Examples)
-
- USD 🇺🇸
- EUR 🇪🇺
- INR 🇮🇳
- JPY 🇯🇵
- GBP 🇬🇧
- AUD 🇦🇺
- CAD 🇨🇦
- CNY 🇨🇳
- NPR 🇳🇵
+- USD 🇺🇸
+- EUR 🇪🇺
+- INR 🇮🇳
+- JPY 🇯🇵
+- GBP 🇬🇧
+- AUD 🇦🇺
+- CAD 🇨🇦
+- CNY 🇨🇳
+- NPR 🇳🇵
 
 
 📌 **Notes**
--Internet connection is required to fetch exchange rates and flag images.
--You can expand supported currencies in `script.js` by updating the `currencyList` object.
--Flag images are dynamically loaded using the country code via FlagCDN.
+- Internet connection is required to fetch exchange rates and flag images.
+- You can expand supported currencies in `script.js` by updating the `currencyList` object.
+- Flag images are dynamically loaded using the country code via FlagCDN.
 
 📄 **License**
 This project is open-source and available under the [MIT License](LICENSE).
